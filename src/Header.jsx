@@ -8,7 +8,7 @@ function Header(props) {
     return (
         <>
        
-      <h3>hammadh{props.email}</h3>  
+      <h3>heloo{props.email}</h3>  
 <h4>wellcom to digsol {props.phone} </h4>  
       {/* <h5>wed devolpement<br></br>{props.adress}</h5>   */}
       <h6>app devilpement{props.adress}</h6>  
